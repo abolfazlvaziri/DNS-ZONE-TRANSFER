@@ -17,11 +17,6 @@ The DNS ZONE TRANSFER section gives the security researcher the ability to acces
 
 -----
 
-## Video
-<a href="https://www.youtube.com/watch?v=26s7QNEFn14">Youtube</a>
-
----
-
 **Contact To Me**
 - Instagram: https://instagram.com/abolfazlvaziriofficial
 - Telegram: https://t.me/AVN_COMMUNITY

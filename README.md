@@ -18,6 +18,7 @@ The DNS ZONE TRANSFER section gives the security researcher the ability to acces
 ----
 
 **Problem**
+
 If you have a problem:
 - Enter Domain without protocol(test.com).
 - Change your IP or turn off VPN.

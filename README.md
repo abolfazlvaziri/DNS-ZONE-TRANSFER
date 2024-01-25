@@ -1,5 +1,5 @@
 ## DNS ZONE TRANSFER 
------
+
 One of the dreams of security researchers and hackers in investigating a project is to discover DNS ZONE TRANSFER, because in the majority of current large projects, such a thing is not discovered, and discovering this means not needing to do many RECON steps.
 
 The DNS ZONE TRANSFER section gives the security researcher the ability to access all the subdomains of a domain in one place, and for this reason, this is a dream because even with the most professional RECON methods, some cases are not discovered. But in DNS ZONE TRANSFER, you can easily discover all subdomains without any additional activities and spending a lot of time.

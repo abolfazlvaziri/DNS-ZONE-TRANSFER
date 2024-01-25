@@ -8,7 +8,7 @@ The DNS ZONE TRANSFER section gives the security researcher the ability to acces
 
 **Installation & Usage**
 ```
-1. sudo git clone https://github.com/abolfazlvaziri/DNS-ZONE-TRANSFER.git
+1. git clone https://github.com/abolfazlvaziri/DNS-ZONE-TRANSFER.git
 2. cd DNS-ZONE-TRANSFER
 3. pip install -r requirements.txt
 4. python3 DZT.py
